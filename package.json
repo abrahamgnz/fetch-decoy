@@ -1,0 +1,35 @@
+{
+  "name": "fetch-decoy",
+  "version": "1.0.0",
+  "description": "A custom fetch hook for react components.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint 'src/**'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamgnz/fetch-decoy.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "useEffect",
+    "fetch",
+    "useState",
+    "request",
+    "get",
+    "http"
+  ],
+  "author": "abrahamgnz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrahamgnz/fetch-decoy/issues"
+  },
+  "homepage": "https://github.com/abrahamgnz/fetch-decoy#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.2.0"
+  }
+}
